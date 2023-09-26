@@ -7,9 +7,13 @@ cd
 
 mkdir -p .gazebo/models/
 
- cd .gazebo/models/
+cd .gazebo/models/
  
- git clone https://github.com/yabanbingliang/gazebo_models.git
+git clone https://github.com/yabanbingliang/gazebo_models.git
+
+mv gazebo_models/* ./
+
+sudo rm -rf gazebo_models
  
 ```
 
