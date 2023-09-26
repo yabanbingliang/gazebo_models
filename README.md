@@ -50,7 +50,7 @@ add below at last
 
 eg
 
-![lidar](https://github.com/yabanbingliang/gazebo_models/blob/main/lidar.png)
+![lidar](lidar.png)
 
 
 ## 3. start 
@@ -61,9 +61,9 @@ eg
 
 eg
 
-![lidar_1](https://github.com/yabanbingliang/gazebo_models/blob/main/lidar_gazebo_1.png)
+![lidar_1](lidar_gazebo_1.png)
 
-![lidar_2](https://github.com/yabanbingliang/gazebo_models/blob/main/lidar_gazebo_2.png)
+![lidar_2](lidar_gazebo_2.png)
 
 ## 4. Reference
 
